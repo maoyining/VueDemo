@@ -34,7 +34,7 @@ export default {
       text-align :center
     .header-input
       flex:1
-      background :#fff
+      background:#fff
       border-radius:.1rem
       line-height:.64rem
       height:.64rem
